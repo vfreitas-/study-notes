@@ -1,4 +1,4 @@
-module study-notes/algorithms
+module study-notes
 
 go 1.15
 
